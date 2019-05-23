@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">pureclass</string>
+
+    <string name="menu_settings">Settings</string>
+    <string name="login_username">登录账号</string>
+    <string name="login_password">登录密码</string>
+    <string name="regist_password">确认密码</string>
+    <string name="login_btn_text">登录</string>
+    <string name="regist_btn_text">注册</string>
+    <string name="login_title">用户登录</string>
+    <string name="regist_title">注册新用户</string>
+    <string name="login_tip_user">手机号/用户ID</string>
+    <string name="login_tip_pwd">请输入登录密码</string>
+    <string name="login_regist">没有账号 去注册</string>
+    <string name="regist_login">已有账号 去登录</string>
+    <string name="regist_tip_user">请输入您的手机号</string>
+    <string name="regist_tip_pwd1">请设置您密码</string>
+    <string name="regist_tip_pwd2">请重复上面密码</string>
+    <string name="btnText">访问服务器Json文件</string>
+    <string name="demoText">admin</string>
+    <string name="demo">这是个启动界面和引导界面的Demo</string>
 </resources>
