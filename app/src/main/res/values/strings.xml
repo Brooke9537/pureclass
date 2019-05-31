@@ -16,7 +16,8 @@
     <string name="regist_tip_user">请输入您的手机号</string>
     <string name="regist_tip_pwd1">请设置您密码</string>
     <string name="regist_tip_pwd2">请重复上面密码</string>
-    <string name="btnText">访问服务器Json文件</string>
-    <string name="demoText">admin</string>
     <string name="demo">这是个启动界面和引导界面的Demo</string>
+    <string name="welcome">这是欢迎界面的demo</string>
+    <string name="bt_dl">登录</string>
+    <string name="bt_zc">注册</string>
 </resources>
