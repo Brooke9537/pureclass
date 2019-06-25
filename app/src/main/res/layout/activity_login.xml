@@ -12,16 +12,8 @@
         android:gravity="center_vertical"
         android:padding="10dip">
 
-        <ImageButton
-            android:id="@+id/ib_login_back"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginEnd="10dip"
-            android:background="@drawable/drawable_btn_back"
-            android:contentDescription="@null" />
-
         <TextView
-            android:id="@+id/tv_login_title"
+            android:id="@+id/huanying"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/login_title"
